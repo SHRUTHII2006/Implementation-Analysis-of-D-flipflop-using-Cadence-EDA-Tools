@@ -6,6 +6,7 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ## Tools Required
 
 ### Cadence EDA Suite
+
 - **Virtuoso Schematic Editor** (for circuit design)
 - **Spectre Simulator** (for circuit simulation)
 
